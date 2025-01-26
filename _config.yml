@@ -23,7 +23,7 @@ email: thomas.rauter@plus.ac.at
 description: >- 
   The website of the data science students team of Salzburg
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # GitHub Pages URL
+url: "https://data-science-team-salzburg.github.io/website/" # GitHub Pages URL
 github_username: Thomas-Rauter
 
 # Build settings
