@@ -1,19 +1,28 @@
 ---
 layout: default
-title: Meetings Timeplan
+title: Meetings
 ---
 
-# Meetings Timeplan
+# Meetings
 
 Our meetings follow a structured timeplan to ensure efficiency and productive 
 collaboration. Here's the breakdown:
 
 ## <span style="color:blue; font-weight:bold;">Before the Meeting</span>
-All team members should upload their results as a PowerPoint presentation to the
-cloud at least one day before the meeting. Each slide should be clearly 
-described and easy to understand without needing an explanation. This gives 
-everyone enough time to review the results at their own pace and prepare any 
-questions, which can then be asked during the first phase of the meeting.
+All team members should upload their results as a **PowerPoint presentation** to 
+the cloud at least one day before the meeting. Each slide should be clearly 
+described and easy to understand without needing an explanation. The 
+**PowerPoint** files must be labeled in the following format:
+
+**`year_month_day_your-name`**
+
+This naming convention ensures that files are automatically sorted in a 
+meaningful order.
+
+Uploading the files in advance gives everyone enough time to review the results 
+at their own pace and prepare any questions, which can then be asked during the 
+first phase of the meeting.
+
 
 ## <span style="color:blue; font-weight:bold;">Regular Meeting Schedule</span>
 - **0-20 min:**  

@@ -59,6 +59,13 @@ We meet every Tuesday from 16:00 to 17:00 at
 , on the third floor in the left half of the building, when looking at it 
 from the front where the fountain is.
 
+This video shows how to walk from outside the university to the meeting room 
+(C-3.010 A):
+
+<iframe src="https://drive.google.com/file/d/1dvlNmL5hvQiGYAmuDPM0Kn3G0Z4RVExO/preview" 
+        width="640" height="480" frameborder="0" allowfullscreen>
+</iframe>
+
 You might want to bring your laptop and/or something to take notes.
 
 ## <span style="color:blue; font-weight:bold;">Links</span>
@@ -79,7 +86,7 @@ For challenge-specific discussions, join our
 We store all our code on our
 [GitHub organization](https://github.com/Data-Science-Team-Salzburg). For each
 challenge, a repository is created. Branches inside the repo provide the 
-personal code storage for each participant. To join, write an email to  
+personal code storage for each participant. To get added, write an email to  
 Thomas Rauter: <span id="email">thomas.rauter@plus.ac.at</span>  
 <button onclick="copyEmail()" style="cursor:pointer; padding:5px 10px; background-color:#007BFF; color:white; border:none; border-radius:5px; font-size:14px;">
   Copy Email
