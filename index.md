@@ -81,7 +81,7 @@ You might want to bring your laptop and/or something to take notes.
 ## <span style="color:blue; font-weight:bold;">Links</span>
 ### **WhatsApp**
 Join our WhatsApp group by using this 
-[link](https://github.com/Data-Science-Team-Salzburg) or scan the QR code below:
+[link](https://chat.whatsapp.com/GAlMzjLid5gAMCJGcCyoWg) or scan the QR code below:
 
 ![WhatsApp group](whatsapp_group_qr_code.png){: style="width:200px; 
 height:200px;" }
@@ -94,7 +94,8 @@ For challenge-specific discussions, join our
 
 ### **GitHub**
 We store all our code on our
-[GitHub organization](https://github.com/Data-Science-Team-Salzburg). For each
+[GitHub organization](https://github.com/Data-Science-Students-Team-Salzburg). 
+For each
 challenge, a repository is created. Branches inside the repo provide the 
 personal code storage for each participant. To get added, write an email to  
 Thomas Rauter: <span id="email">thomas.rauter@plus.ac.at</span>  
