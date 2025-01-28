@@ -9,7 +9,7 @@ title: Home
 height:auto; 
 border-radius:50%;" }
 
-Last updated: 26.01.2025
+Last updated: 28.01.2025
 
 ## <span style="color:blue; font-weight:bold;">What we are</span>
 We are a student initiative at the University of Salzburg, organized as an ÖH 
@@ -24,6 +24,7 @@ these challenges below!
 
 🎯Build a professional profile. 
 
+
 ## <span style="color:blue; font-weight:bold;">What are data science challenges?</span>
 Data science challenges are competitions where individuals or teams tackle 
 real-world problems using data analysis, machine learning, and statistical 
@@ -35,6 +36,7 @@ offer prize money as a reward. They provide a unique opportunity to apply
 theoretical knowledge, gain experience with real-world data, and grow in the 
 field of data science and machine learning. 
 
+
 ## <span style="color:blue; font-weight:bold;">Why should I join a team?</span>
 While it’s true that you can tackle data science challenges alone from the 
 comfort of your home, joining a team can significantly increase the chances of 
@@ -44,17 +46,25 @@ from each other, gaining insights that we might not reach on our own. Plus,
 working as a team makes the process more enjoyable, keeps motivation high, and 
 adds a social element that turns challenges into a shared experience. 
 
-## <span style="color:blue; font-weight:bold;">Are there any requirements?</span>
-Participants should ideally have foundational skills in data science, machine 
-learning, and key tools in Python or R, such as data manipulation, 
-visualization, and familiarity with core algorithms. Experience with GitHub and
-model tuning is also helpful, but members can also grow these skills through 
-practice in the club. If you are excited to apply, refine, and expand your 
-skills with a motivated team, join our Data Science Team and take on these
-challenges together! 
+
+## <span style="color:blue; font-weight:bold;">Who can join?</span>
+
+**Anybody can join**, but we recommend that you know how to code in Python and 
+know the basics of machine learning (e.g. supervised learning: neural 
+networks, tree based methods, etc.). Otherwise, participating in 
+challenges can be overwhelming.
+
+Not sure if you’re ready yet? Consider testing the waters with the 
+[Titanic Data Science Challenge](https://www.kaggle.com/competitions/titanic)
+on Kaggle. It’s a beginner-friendly challenge that runs indefinitely and can be
+completed in a few hours.
+
+If you feel you are not quite ready yet, we recommend doing the Coursera course:
+[Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction#courses)
+, taught by Andrew Ng.
 
 ## <span style="color:blue; font-weight:bold;">Where and when do we meet?</span>
-We meet every Tuesday from 16:00 to 17:00 at 
+We meet every Wednesday from 18:00 to 19:00 at 
 [Hellbrunner Straße 34, 5020 Salzburg](https://maps.app.goo.gl/yq5Rmj2552xTAPFz7)
 , on the third floor in the left half of the building, when looking at it 
 from the front where the fountain is.
