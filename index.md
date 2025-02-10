@@ -64,10 +64,14 @@ If you feel you are not quite ready yet, we recommend doing the Coursera course:
 , taught by Andrew Ng.
 
 ## <span style="color:blue; font-weight:bold;">Where and when do we meet?</span>
-We meet every Wednesday from 18:00 to 19:00 at 
+We meet **every Wednesday from 18:00 to 19:00** at 
 [Hellbrunner Straße 34, 5020 Salzburg](https://maps.app.goo.gl/yq5Rmj2552xTAPFz7)
-, on the third floor in the left half of the building, when looking at it 
-from the front where the fountain is.
+, on the third floor, left half of the building (when viewed from the front, 
+where the fountain is).  
+
+Before coming, please check our WhatsApp group (see below) to confirm if we 
+are actively working on challenges. There may be longer breaks, especially in
+the summer.
 
 This video shows how to walk from outside the university to the meeting room 
 (C-3.010 A):
