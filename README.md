@@ -1,1 +1,1 @@
-Link to the website: https://data-science-team-salzburg.github.io/website/
+Link to the website: https://data-science-students-team-salzburg.github.io/website/
