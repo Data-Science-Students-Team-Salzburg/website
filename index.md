@@ -3,13 +3,13 @@ layout: default
 title: Home
 ---
 
-# Welcome to the website of the Data Science Students Team of Salzburg
+# Welcome to the website of the Data Science Students Team Salzburg
 
 ![team_icon](data_sciene_team_icon.jpg){: style="width:150px; 
 height:auto; 
 border-radius:50%;" }
 
-Last updated: 28.01.2025
+Last updated: 15.02.2025
 
 ## <span style="color:blue; font-weight:bold;">What we are</span>
 We are a student initiative at the University of Salzburg, organized as an ÖH 

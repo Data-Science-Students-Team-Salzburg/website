@@ -42,9 +42,23 @@ first phase of the meeting.
   For those interested, we hold an optional after-meeting to dive deeper into 
   specific topics, address challenges, or explore ideas in more detail.
 
+## <span style="color:blue; font-weight:bold;">Professionalism</span>
+Meetings should be conducted professionally and seen as work. Private
+conversations should be kept to a minimum to maintain focus and efficiency.
+All participants should expect and respect this professional work environment.
+Professionalism also includes being punctual, as it shows respect for everyone’s
+time and ensures meetings run smoothly.
+
+## <span style="color:blue; font-weight:bold;">Meeting Facilitator</span>
+One person should take the role of the meeting facilitator. This person 
+moderates the discussion, guides the meeting, and makes sure that the 
+schedule outlined above is kept. 
+
 ## <span style="color:blue; font-weight:bold;">Meeting Notes</span>
-One person (usually Thomas Rauter) should take structured notes during the 
-meeting to ensure key points are documented. The notes should follow this format:
+One person should take structured notes during the 
+meeting to ensure key points are documented. This can be the same person 
+that takes on the role of the meeting facilitator. The meeting notes should be
+structured and documented following this format:
 
 ---
 
