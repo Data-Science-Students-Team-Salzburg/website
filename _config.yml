@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Data Science Team
+title: Data Science Students Team Salzburg
 email: thomas.rauter@plus.ac.at
 description: >- 
-  The website of the data science students team of Salzburg
+  The website of the Data Science Students Team Salzburg
 baseurl: "/website" # the subpath of your site, e.g. /blog
 url: "https://data-science-students-team-salzburg.github.io" # GitHub Pages URL
 github_username: Thomas-Rauter

@@ -68,3 +68,15 @@ The following platforms host data science challenges:
 - [Chahub](https://chahub.org/)
 
 - [HackerRank](https://www.hackerrank.com/categories/ai/machine-learning)
+
+
+### Choosing the Right Challenge
+
+When selecting a challenge, prioritize **understanding over difficulty**—it's 
+better to fully grasp an easier problem than to struggle with an overwhelming
+one. Consider the **computational requirements**, as we are limited to laptops.
+Avoid challenges that demand extensive GPU power, such as large-scale image
+processing, and focus on problems that can be efficiently tackled with available
+resources.
+
+

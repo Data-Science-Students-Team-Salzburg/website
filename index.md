@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to the website of the Data Science Students Team Salzburg
 
-![team_icon](data_sciene_team_icon.jpg){: style="width:150px; 
+![team_icon](./images/data_sciene_team_icon.jpg){: style="width:150px; 
 height:auto; 
 border-radius:50%;" }
 
@@ -87,7 +87,7 @@ You might want to bring your laptop and/or something to take notes.
 Join our WhatsApp group by using this 
 [link](https://chat.whatsapp.com/GAlMzjLid5gAMCJGcCyoWg) or scan the QR code below:
 
-![WhatsApp group](whatsapp_group_qr_code.png){: style="width:200px; 
+![WhatsApp group](./images/whatsapp_group_qr_code.png){: style="width:200px; 
 height:200px;" }
 
 We use WhatsApp for general communication and organizational updates.

@@ -10,9 +10,9 @@ collaboration. Here's the breakdown:
 
 ## <span style="color:blue; font-weight:bold;">Before the Meeting</span>
 All team members should upload their results as a **PowerPoint presentation** to 
-the cloud at least one day before the meeting. Each slide should be clearly 
-described and easy to understand without needing an explanation. The 
-**PowerPoint** files must be labeled in the following format:
+the **results** folder in the cloud at least one day before the meeting. Each 
+slide should be clearly described and easy to understand without needing an 
+explanation. The PowerPoint files must be labeled in the following format:
 
 **`year_month_day_your-name`**
 
